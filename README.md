@@ -1,4 +1,4 @@
-# Business Knowledge Formation (Data Analysis)
+# Business Knowledge Formation
 ### Data Analysis Using PowerBI Dashboard
                                  
 *	Import the row data of excel, worked with the live sales dataset.
